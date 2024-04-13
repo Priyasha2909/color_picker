@@ -27,4 +27,4 @@ The picked colors can be exported to a text file with their corresponding hexade
 4. Export the colors picked in a text file for further use.
 5. Additionally, click on the picked color to view its hexadecimal and RGB format.
 
-## Live Version :- https://priyasha2909.github.io/color_picker/
+**Live Version :-** https://priyasha2909.github.io/color_picker/
